@@ -38,6 +38,4 @@
 
 </div>
 
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rishavchanda&&theme=xcode)](https://github.com/egegeegege)
-
 
