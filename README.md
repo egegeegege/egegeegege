@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ege Aydın</h1>
 <h3 align="center">A passionate FullStack Developer from Turkey</h3>
 
-<img align="center" alt="Coding" width="900" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
+<img align="center" alt="Coding" width="900" src="https://i.pinimg.com/originals/83/f6/5e/83f65e8c6efc88fabfcfbb11cf63bd8a.gif" width="500">
 <br><br>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="500" alt="NUX_Octodex"> </br></br></br></br>
