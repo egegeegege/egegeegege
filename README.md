@@ -31,6 +31,7 @@ Languages and Tools
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-![Ege's GitHub stats](https://github-readme-stats.vercel.app/api?username=egegeegege&hide=contribs,prs) 
+![Ege's github stats](https://github-readme-stats.vercel.app/api?username=egegeegege&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egegeegege&layout=compact&hide_progress=true)](https://github.com/egegeegege/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egegeegege&langs_count=8)](https://github.com/egegeegege/github-readme-stats)
+
