@@ -33,5 +33,6 @@ Languages and Tools
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=egegeegege&theme=prussian&hide_border=YANLI%C5%9E&border_radius=10&date_format=%5BY%20%5DM%20j&card_width=500&card_height=200)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egegeegege&langs_count=8)](https://github.com/egegeegege/github-readme-stats)
-
+<div style="display: flex;">
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=egegeegege&layout=compact&custom_title=Linguagens%20mais%20utilizadas:&theme=white&hide_border=true"/>
+</div>
