@@ -30,9 +30,8 @@ Languages and Tools
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Ege Aydın's GitHub stats](https://github-readme-stats.vercel.app/api?username=egegeegege&show_icons=true&theme=white)
 
-![Ege Aydın's GitHub stats](https://github-readme-stats.vercel.app/api?username=egegeegege&hide=contribs,prs) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egegeegege\&layout=pie)](https://github.com/egegeegege/github-readme-stats)
 
-<div style="display: flex;">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=egegeegege&layout=compact&custom_title=Linguagens%20mais%20utilizadas:&theme=white&hide_border=true"/>
-</div>
+
