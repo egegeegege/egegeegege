@@ -28,6 +28,6 @@ Languages and Tools
 
 ![Ege Aydın's GitHub stats](https://github-readme-stats.vercel.app/api?username=egegeegege&show_icons=true&theme=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egegeegege\&layout=pie)](https://github.com/egegeegege/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egegeegege&layout=compact&hide_progress=true)](https://github.com/egegeegege/github-readme-stats)
 
 
